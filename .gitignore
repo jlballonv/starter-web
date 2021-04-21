@@ -1,1 +1,6 @@
 *.user
+*.dll
+*.log
+log/
+bin/
+packages/
