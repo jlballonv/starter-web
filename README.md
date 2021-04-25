@@ -2,12 +2,12 @@
 
 ## Introduction
 
-Some text here
+This is a sample project for traiing purposes!
 
 
 ## Purpose
 
-Some text here
+LEARN Git
 
 
 ## Deployment
