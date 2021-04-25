@@ -1,6 +1,7 @@
 *.user
 *.dll
 *.log
+*.orig
 log/
 bin/
 packages/
