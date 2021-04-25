@@ -18,3 +18,7 @@ Some text here
 ## How to Contribute
 
 Sample text here
+
+### Copyright
+
+Git.Training
