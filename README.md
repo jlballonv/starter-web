@@ -17,7 +17,7 @@ Some text here
 
 ## How to Contribute
 
-Sample text here
+Please fork this repository and then issue pull request for review.
 
 ### Copyright
 
